@@ -1,0 +1,21 @@
+LIST OF INPUT TYPES:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+
+TREE HOUSE BLOG FOR INPUT TYPES
+https://blog.teamtreehouse.com/use-input-element?_ga=2.128772300.1948028232.1580647038-592906473.1579476419
+
+TEXT AREA:
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea
+
+BUTTON: 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button
+
+SELECT:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+
+OPTION:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option
+
+OPTGROUP:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup
